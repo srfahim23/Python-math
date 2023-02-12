@@ -43,5 +43,27 @@ When you have imported the math module, you can start using methods and constant
 
 The math.sqrt() method for example, returns the square root of a number:
 
+Example:
+
+    import math
+
+    x = math.sqrt(64)
+
+    print(x)
+
+# The math.ceil() method rounds  number upwards to its nearest integer, and the math.floor() method rounds a number downwards to its nearest integer, and returns the result:
+
+Example:
+
+    import math
+
+    x = math.ceil(1.4)
+    y = math.floor(1.4)
+
+    print(x)   # returns 2
+    print(y))  # returns 1
+
+
+
 
 
