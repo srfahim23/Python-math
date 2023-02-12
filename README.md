@@ -63,6 +63,20 @@ Example:
     print(x)   # returns 2
     print(y))  # returns 1
 
+The math.pi constant, returns the value of PI (3.14...):
+
+Example:
+
+    import math
+
+    x = math.pi
+
+    print(x)
+
+# Complete Math Module Reference
+In our Math Module Reference you will find a complete reference of all methods and constants that belongs to the Math module.
+
+
 
 
 
